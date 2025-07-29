@@ -120,7 +120,7 @@ If you find our work and this repository helpful in your research, we would appr
 ```bibtex
 @inproceedings{li2025mico,
   title={MiCo: Multiple Instance Learning with Context-Aware Clustering for Whole Slide Image Analysis},
-  author={Junjian Li, Hulin Kuang, Jin Liu, Hailin Yue, Mengshen He, and Jianxin
+  author={Junjian Li, Jin Liu, Hulin Kuang, Hailin Yue, Mengshen He, and Jianxin
 Wang},
   booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
   year={2025},
